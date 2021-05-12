@@ -37,7 +37,7 @@
    
    **instanceUserName** `[required][length=max:100] [i.e. Jonh Doe]`
    
-   **instanceUserEmail** `[required][length=max:90] [i.e. jonh.doe@example.com]`
+   **instanceUserEmail** `[required][valid-email-structure][length=max:90] [i.e. jonh.doe@example.com]`
    
    **partnerDomain** `[i.e. viseeon.cash]`
    
