@@ -71,9 +71,9 @@
 
 
 
-**Example Call:**
+**Example :**
 
-  _The example below show new viseeon cash instance creation with company **ABCDEFG, Lda** and user **Jonh Doe (jonh.doe@example.com)**_
+  _The example below show viseeon cash instance creation with company **ABCDEFG, Lda** and user **Jonh Doe (jonh.doe@example.com)**_
 
 `BODY`
 ```json
