@@ -65,8 +65,8 @@
   **TENANT-ID**
 
  * **Headers Notes**
-	* _Use always value  `instancecreator`  for the  `TENANT-ID`  header._
-	* _The value of `APPLICATION-ID` will be provided._
+	* _Use always value  `instancecreator`  for the  `TENANT-ID`  header (the value `instancecreator` tell the API to allow instance creation)._
+	* _The value of `APPLICATION-ID` will be provided (The techincal partner will provide the application id)._
 
 
 
