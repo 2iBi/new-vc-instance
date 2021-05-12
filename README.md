@@ -46,8 +46,8 @@
 
    * **Body Notes**
  
-	   * _Use always value `viseeon.cash` for the `partnerDomain` property, so all instances will be accessible at https://`instanceId`.viseeon.cash_
-	   * _Set `true` for `useAliasOnDuplication` property, the API will create the instance with an alternate ID if the provided `instanceId` already exists._
+	   * _Use always value `viseeon.cash` for the `partnerDomain` property, the new instance will be accessible at https://`instanceId`.viseeon.cash_
+	   * _Set `true` for `useAliasOnDuplication` property, the API will create the instance with an alternate ID if the provided `instanceId` already exist._
   
 
 * **Success Response**
